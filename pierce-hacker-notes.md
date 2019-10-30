@@ -7,6 +7,7 @@ that they may not be familiar with.
 # How might PierceHacker be more useful?
 -  Invite writers to contribute the blog that focuses on writing about technical competency and the latest tech trends that
 would be beneifical to college students and staff
+- Categorizing Tutorials (teachhing, editoral, productivity, profession, software, teaching)
 
 # What would PierceHacker more awesome or useful?
 - Adding a search bar so that people can search the website for tutorials for quicker access
