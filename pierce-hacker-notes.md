@@ -13,3 +13,4 @@ would be beneifical to college students and staff
 - Adding a search bar so that people can search the website for tutorials for quicker access
 - Incorporating video tutorials for those who learn visually and auditory
 - Having a twitter page that connects to a broader audience
+
