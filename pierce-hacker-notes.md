@@ -6,3 +6,6 @@ that they may not be familiar with.
 
 #How might PierceHacker be more useful?
 - 
+
+#What would PierceHacker more awesome or useful?
+- Adding a search bar so that people can search the website for tutorials for quicker access
