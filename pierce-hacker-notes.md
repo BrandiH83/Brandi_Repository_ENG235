@@ -3,3 +3,6 @@
 that they may not be familiar with.
 - Tutorials are readily available for students to access.
 - Students can be taught technical skills that may not be taught in their classroom.
+
+#How might PierceHacker be more useful?
+- 
