@@ -22,3 +22,7 @@ Does the lesson accomplish its goal?
 The goal of this tutorial is somewhat accomplished.  It does need additional information to provide a need-to-know on why someone might need to use certain features, such as the modules and how it is benefical for the student's needs.
 
 Then the tutorial just ends.  The pictures of the tutoral show an SOSE Survey and a  Cranium Cafe.  Seeing how those links pertain to STATS, one would think this would also be necessary to add to the tutorial.  Especiallyt since Cranium Cafe is a platform for students to connect and communicate with the STATS staff.
+
+The goal was not ambitious enough.  I felt as if it was prematurely put together without much thought on what other information might be useful and didn't consider the user's point of view.
+
+Again, the end felt like it just ubruptly ended, but the breakdown was when I felt left questions what the other features and functions of the STATS website were.
