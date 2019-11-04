@@ -14,3 +14,11 @@ would be beneifical to college students and staff
 - Incorporating video tutorials for those who learn visually and auditory
 - Having a twitter page that connects to a broader audience
 
+# How to Take Advantage of the Student Technology Assistance Team (TUTORIAL/USABILITY TEST)
+
+Experience:
+Does the lesson accomplish its goal?
+
+The goal of this tutorial is somewhat accomplished.  It does need additional information to provide a need-to-know on why someone might need to use certain features, such as the modules and how it is benefical for the student's needs.
+
+Then the tutorial just ends.  The pictures of the tutoral show an SOSE Survey and a  Cranium Cafe.  Seeing how those links pertain to STATS, one would think this would also be necessary to add to the tutorial.  Especiallyt since Cranium Cafe is a platform for students to connect and communicate with the STATS staff.
